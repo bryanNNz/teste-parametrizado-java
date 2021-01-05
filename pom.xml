@@ -6,7 +6,7 @@
 	<artifactId>TestesParametrizados</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>TestesParametrizados</name>
-	<description>Exempo de teste parametrizado</description>
+	<description>Exempo de teste parametrizado (orientado a dados)</description>
 
 	<properties>
 		<java.version>1.8</java.version>
